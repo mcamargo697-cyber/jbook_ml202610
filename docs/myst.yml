@@ -19,6 +19,7 @@ project:
     - file: 2_CorrelacionCruzada.ipynb
       #Title: Correlación cruzada entre estaciones
     - file: 3_Exploracion.ipynb
+    - file: 4_AnalisisBasico.ipynb
     
 site:
   template: book-theme
