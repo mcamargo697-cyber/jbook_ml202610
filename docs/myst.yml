@@ -18,6 +18,7 @@ project:
       #Title: Gráficas de series de tiempo de Nivel
     - file: 2_CorrelacionCruzada.ipynb
       #Title: Correlación cruzada entre estaciones
+    - file: 3_Exploracion.ipynb
     
 site:
   template: book-theme
