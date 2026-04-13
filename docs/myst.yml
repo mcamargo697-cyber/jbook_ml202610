@@ -2,7 +2,7 @@
 version: 1
 project:
   id: 086a3e50-16b5-45af-a37c-f2bd8b8e9c8e
-  title: Nivel del Río Magdalena
+  title: Contenido del análisis
   description: Visualización y exploración básica de series temporales de nivel.
   # description:
   # keywords: []
@@ -21,7 +21,7 @@ site:
   template: book-theme
   options:
     logo: images/logo.jpg
-    logo_text: Río Magdalena - EDA
+    logo_text: Análisis exploratorio de datos del nivel del Río Magdalena
     hide_footer_links: false
     hide_outline: true
     outline_maxdepth: 2
