@@ -27,6 +27,6 @@ site:
     logo: images/logo.jpg
     logo_text: Análisis exploratorio de datos del nivel del Río Magdalena
     hide_footer_links: false
-    hide_outline: true
-    outline_maxdepth: 2
+    hide_outline: false
+    outline_maxdepth: 3
     style: ./_static/custom.css
