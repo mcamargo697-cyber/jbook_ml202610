@@ -1,18 +1,26 @@
 table,
+table.dataframe,
 .dataframe,
-table.dataframe {
+.jp-RenderedHTMLCommon table,
+.cell_output table,
+.jp-OutputArea-output table {
   margin-left: auto !important;
   margin-right: auto !important;
+  width: auto !important;
 }
 
-img,
-.jp-OutputArea-output img,
-.cell_output img {
-  display: block;
-  margin-left: auto !important;
-  margin-right: auto !important;
+.cell_output,
+.jp-OutputArea-output,
+.jp-RenderedHTMLCommon {
+  text-align: center !important;
 }
 
-figure {
-  text-align: center;
+.cell_output table,
+.jp-OutputArea-output table,
+.jp-RenderedHTMLCommon table {
+  display: inline-table !important;
+}
+
+body {
+  border: 4px solid red;
 }
