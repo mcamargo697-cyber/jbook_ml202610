@@ -1,9 +1,9 @@
-table {
+img {
+  display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
-.dataframe {
-  margin-left: auto;
-  margin-right: auto;
+figure {
+  text-align: center;
 }
